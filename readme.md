@@ -52,6 +52,15 @@ Ensure you have the following installed:
    python manage.py runserver
    ```
 
+## Superuser Login Credentials
+
+To access the Django Admin panel, use the following login credentials:
+
+- **Username**: admin
+- **Password**: admin@1234
+
+You can log in at: [http://127.0.0.1:8000/admin/login/](http://127.0.0.1:8000/admin/login/)
+
 ## API Usage
 
 ### Get all FAQs
